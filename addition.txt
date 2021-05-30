@@ -1,0 +1,11 @@
+public classAddition{
+public void sum(int x,int y)
+{
+system.out.println("sum is"+(x+y));
+
+}
+public static void main(String args[])
+{
+ Addition ob=new Addtion();
+ob.sum(15,20);
+}}
